@@ -105,4 +105,4 @@ The dataset consists of various attributes of diamonds:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/Diamonds-EDA-Task3.git
+git clone https://github.com/namanmudgal07/Diamonds-EDA-Task3.git
